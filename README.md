@@ -60,5 +60,4 @@ make clean
 
 Embedded Systems Engineer | Embedded C | ARM7 | Linux System Programming
 
-GitHub: https://github.com/Mokshang07
 LinkedIn: https://www.linkedin.com/in/mokshang-shah
