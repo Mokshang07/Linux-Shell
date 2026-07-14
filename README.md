@@ -54,9 +54,11 @@ make
 ```bash
 make clean
 ```
-
 ## Author
 
 **Mokshang Shah**
 
-Embedded Systems Engineer | Embedded C | ARM7 | Linux System Programming  
+Embedded Systems Engineer | Embedded C | ARM7 | Linux System Programming
+
+GitHub: https://github.com/Mokshang07
+LinkedIn: https://www.linkedin.com/in/mokshang-shah
